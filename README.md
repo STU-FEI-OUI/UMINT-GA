@@ -52,7 +52,7 @@ Priemerná finálna fitness:
 ---
 ## Zad. 3:
 ```
-F_optimal = 483.1012838366593
+F_optimal = 468.1095
 ```
 ![ideal path for zadanie3](image/README/zad3-path.png)
 
